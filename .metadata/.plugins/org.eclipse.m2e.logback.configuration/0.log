@@ -1,0 +1,12 @@
+2021-03-02 16:41:21,088 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2021-03-03 13:03:26,541 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-03 13:39:24,904 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-03 13:39:50,165 [Worker-3: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/alexlee/git/ex_alex/.git]
+2021-03-03 13:39:53,908 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/alexlee/eclipse-workspace/Hello World/.git]
+2021-03-03 13:40:42,233 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-04 12:46:46,949 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-04 12:51:37,626 [Worker-8: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/alexlee/git/ex_alex/.git]
+2021-03-04 13:01:21,812 [Worker-14: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for [RepositoryHandle:Repository[/Users/alexlee/git/ex_alex/.git]]
+2021-03-04 13:01:29,932 [Worker-19: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/alexlee/git/ex_alex/.git]
+2021-03-04 13:02:16,299 [Worker-18: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/alexlee/eclipse-workspace/Hello World/.git]
+2021-03-04 13:04:06,086 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
